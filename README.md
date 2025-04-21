@@ -3,8 +3,8 @@
 This project analyzes vehicle collision data in New York City to uncover patterns in timing, location, cause, and injury severity. The goal is to explore how public data can inform safer, more equitable urban planning and transportation policy.
 
 ## Files
-- project201.Rmd – Full analysis code and insights
-- project201.html` – Rendered output for easy viewing
+- `New York City Motor Vehicle and People Collision Analysis.Rmd` – Full analysis code and insights
+- `New York City Motor Vehicle and People Collision Analysis.html` – Rendered output for easy viewing
 - Motor_Vehicle_Collisions_-_Crashes.csv – Dataset containing details about the crash event
 - Motor_Vehicle_Collisions_-_Person.csv Dataset containing details about people involved in the crash.
 
