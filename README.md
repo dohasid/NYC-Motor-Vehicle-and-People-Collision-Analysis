@@ -22,6 +22,9 @@ This project analyzes vehicle collision data in New York City to uncover pattern
 - coord_map
 
 ## Data Sources
+Due to file size limits, the raw datasets are not included in this repository.
+
+You can download them here:
 - NYC Open Data: [Crash Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 - NYC Open Data: [Person Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu/about_data)
 
